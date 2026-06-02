@@ -1,0 +1,9 @@
+----> git init 
+----> git status (optional)
+----> git add -A / git add . / git add index.html  style.css 
+----> git commit -m "messege"
+----> git config --list (for checking the configration list)
+----> git config --global user.name muhammed riyas
+----> git config --global user.email kuniyanriyas@gmail.com
+----> git remote add orgin https://github.com/riyaskuniyan/portfolio.git
+----> git push orgin master
